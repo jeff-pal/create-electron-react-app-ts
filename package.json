@@ -2,8 +2,35 @@
   "name": "create-electron-react-app-ts",
   "version": "1.0.0",
   "license": "MIT",
-  "bin": "bin/cli.js",
+  "bin": {
+    "create-electron-react-app-ts": "bin/cli.js"
+  },
   "repository": {
-    "url": "https://github.com/jeff-pal/create-electron-react-app-ts.git"
-  }
+    "url": "git+https://github.com/jeff-pal/create-electron-react-app-ts.git"
+  },
+  "description": "This is a electron-typescript-based application starter kit. This package creates a [electron-react-app-ts repo](https://github.com/jeff-pal/electron-react-app-ts.git) replica.",
+  "bugs": {
+    "url": "https://github.com/jeff-pal/create-electron-react-app-ts/issues"
+  },
+  "homepage": "https://github.com/jeff-pal/create-electron-react-app-ts#readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "electron",
+    "react",
+    "typescript",
+    "electron",
+    "with",
+    "react",
+    "electron",
+    "with",
+    "typescript",
+    "electron",
+    "template",
+    "electron",
+    "boilerplate."
+  ],
+  "author": "Jeff Pal"
 }
