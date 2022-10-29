@@ -1,0 +1,9 @@
+{
+  "name": "create-electron-react-app-ts",
+  "version": "1.0.0",
+  "license": "MIT",
+  "bin": "bin/cli.js",
+  "repository": {
+    "url": "https://github.com/jeff-pal/create-electron-react-app-ts.git"
+  }
+}
